@@ -44,11 +44,11 @@ My priorities include reducing the effort of choosing what to watch, making ever
 
 Cuehouse remains in active development. Features and behavior continue to evolve as I refine the app.
 
-## How the app behaves
+## Technical discussions
 
-The viewing-choice controls start shuffled queues of movies, episodes, or both. **Time to watch** filters each title by runtime; it does not cap the combined queue duration or act as a sleep timer.
+Explore how Cuehouse works internally, including data flow, queue construction, asynchronous state, cancellation, and failure handling.
 
-[Read the behavior guide and professional talking points](BEHAVIOR.md) for control-by-control explanations, examples, design decisions, and the scope of my contribution.
+[Read the technical discussions](TECHNICAL-DISCUSSIONS.md), starting with **From a shuffle request to playback**. Further reviews will cover architecture, library data and search, playback, downloads, and platform adaptation.
 
 ## My role
 
