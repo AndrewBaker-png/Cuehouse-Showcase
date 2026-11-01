@@ -26,7 +26,7 @@ Cuehouse is my independent app project, built around a simple goal: make it easi
 </tr>
 </table>
 
-Select an image to inspect the full-size screenshot. These captures illustrate interface design at the time of their October 2026 fixture runs; they are not a live media library or a guarantee of the latest build's behavior.
+Select an image to inspect the full-size screenshot. Home was recaptured on November 1, 2026 from a fresh simulator build after removal of the duplicate Downloads entry. The other captures are from October 2026 fixture runs. They illustrate interface design with sample data, not a live media library.
 
 ## Why I’m building it
 
