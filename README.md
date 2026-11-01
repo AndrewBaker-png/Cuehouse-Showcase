@@ -44,6 +44,12 @@ My priorities include reducing the effort of choosing what to watch, making ever
 
 Cuehouse remains in active development. Features and behavior continue to evolve as I refine the app.
 
+## How the app behaves
+
+The viewing-choice controls start shuffled queues of movies, episodes, or both. **Time to watch** filters each title by runtime; it does not cap the combined queue duration or act as a sleep timer.
+
+[Read the behavior guide and professional talking points](BEHAVIOR.md) for control-by-control explanations, examples, design decisions, and the scope of my contribution.
+
 ## My role
 
 I define the product’s behavior, specify workflows, and direct AI-assisted implementation and troubleshooting. My process is iterative: I describe the intended experience, assess the resulting behavior, and revise the design and requirements.
