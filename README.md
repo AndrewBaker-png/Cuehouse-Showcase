@@ -12,21 +12,21 @@ Cuehouse is my independent app project, built around a simple goal: make it easi
 <tr>
 <th>Home</th>
 <th>Episode details</th>
-<th>Viewing choices</th>
+<th>Viewing choices — iPhone Duo simulator</th>
 </tr>
 <tr>
 <td><img src="images/home.png" width="240" alt="Cuehouse Home in dark appearance with quick actions and a sample series"></td>
 <td><img src="images/episode-detail.png" width="240" alt="Cuehouse sample episode detail in light appearance with a prominent Play button"></td>
-<td><img src="images/viewing-controls.png" width="240" alt="Cuehouse viewing controls with Play Anything, random selection, and a time-to-watch slider"></td>
+<td><img src="images/viewing-controls.png" width="240" alt="Cuehouse viewing controls on the iPhone Duo simulator with Play Anything, random selection, and a time-to-watch slider"></td>
 </tr>
 <tr>
 <td>Quick access to downloads, Watch Later, and viewing functions.</td>
 <td>A clear title hierarchy and prominent primary action, with related actions grouped below.</td>
-<td>Choose a random movie or episode, or set the time available to watch. Shown in a larger-text test layout.</td>
+<td>Choose a random movie or episode, or set the time available to watch. Captured on the iPhone Duo simulator; its layout differs from the standard iPhone portrait view.</td>
 </tr>
 </table>
 
-Select an image to inspect the full-size screenshot. Home was recaptured on November 1, 2026 from a fresh simulator build after removal of the duplicate Downloads entry. The other captures are from October 2026 fixture runs. They illustrate interface design with sample data, not a live media library.
+Select an image to inspect the full-size screenshot. Home was recaptured on November 1, 2026 from a fresh simulator build after removal of the duplicate Downloads entry. Viewing choices was rebuilt and recaptured on the iPhone Duo simulator on November 1, 2026. Episode details is from an October 2026 fixture run. They illustrate interface design with sample data, not a live media library.
 
 ## Why I’m building it
 
