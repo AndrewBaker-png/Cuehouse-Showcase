@@ -48,7 +48,12 @@ Cuehouse remains in active development. Features and behavior continue to evolve
 
 Explore how Cuehouse works internally, including data flow, queue construction, asynchronous state, cancellation, and failure handling.
 
-[Read the technical discussions](TECHNICAL-DISCUSSIONS.md), starting with **From a shuffle request to playback**. Further reviews will cover architecture, library data and search, playback, downloads, and platform adaptation.
+[Read the technical discussions](TECHNICAL-DISCUSSIONS.md):
+
+- **From a shuffle request to playback:** selection, sampling, queue construction, and cancellation.
+- **[Playback lifecycle and recovery](TECHNICAL-DISCUSSIONS.md#discussion-2-playback-lifecycle-and-recovery):** source selection, AVPlayer orchestration, resume, queue transitions, durable progress updates, and recovery.
+
+Further reviews will cover architecture, library data and search, downloads, and platform adaptation.
 
 ## My role
 
