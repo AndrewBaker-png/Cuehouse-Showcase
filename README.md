@@ -4,6 +4,30 @@
 
 Cuehouse is my independent app project, built around a simple goal: make it easier to enjoy a personal media collection with a focused interface and practical playback controls.
 
+## Interface showcase
+
+**App interface shown with sample data.** These are actual development screenshots from fixture runs, reviewed for public sharing. Placeholder artwork and disabled actions reflect the test setup.
+
+<table>
+<tr>
+<th>Home</th>
+<th>Episode details</th>
+<th>Viewing choices</th>
+</tr>
+<tr>
+<td><img src="images/home.png" width="240" alt="Cuehouse Home in dark appearance with quick actions and a sample series"></td>
+<td><img src="images/episode-detail.png" width="240" alt="Cuehouse sample episode detail in light appearance with a prominent Play button"></td>
+<td><img src="images/viewing-controls.png" width="240" alt="Cuehouse viewing controls with Play Anything, random selection, and a time-to-watch slider"></td>
+</tr>
+<tr>
+<td>Quick access to downloads, Watch Later, and viewing functions.</td>
+<td>A clear title hierarchy and prominent primary action, with related actions grouped below.</td>
+<td>Choose a random movie or episode, or set the time available to watch. Shown in a larger-text test layout.</td>
+</tr>
+</table>
+
+Select an image to inspect the full-size screenshot. These captures illustrate interface design at the time of their October 2026 fixture runs; they are not a live media library or a guarantee of the latest build's behavior.
+
 ## Why I’m building it
 
 I wanted a client tailored to the way I use my own media library. Plex provides the backend; Cuehouse focuses on the browsing and viewing experience across Apple devices.
@@ -46,9 +70,9 @@ Useful coverage includes simulated playback-metadata failures, navigation across
 
 ## Source availability
 
-Cuehouse is closed source. This repository is a public project showcase containing documentation only. The application source code and development history are maintained separately in a private repository.
+Cuehouse is closed source. This repository is a public project showcase containing documentation and sample-data interface screenshots. The application source code and development history are maintained separately in a private repository.
 
-Screenshots and a demo may be added later using content suitable for public sharing.
+The gallery uses reviewed fixture screenshots. A video demo may be added later.
 
 ## About the creator
 
